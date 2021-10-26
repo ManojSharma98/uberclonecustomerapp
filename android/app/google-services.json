@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254616545187",
+    "project_id": "flutter-uber-clone-f4412",
+    "storage_bucket": "flutter-uber-clone-f4412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254616545187:android:6219a457ef3d10bdf2dc16",
+        "android_client_info": {
+          "package_name": "com.example.ubercloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254616545187-834ckh4qp1anghnohpjbrdfq0hlshmfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx87apgLGzRUKI22acN5e2qDEQB1qgqF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254616545187-834ckh4qp1anghnohpjbrdfq0hlshmfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
